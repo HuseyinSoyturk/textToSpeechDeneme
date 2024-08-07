@@ -1,0 +1,9 @@
+#root {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+  width: 300px;
+}
